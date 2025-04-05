@@ -1,0 +1,13 @@
+Name of species,Scientific name,Threshold,Standard deviation,Mean at label 1,Mean at label 0,Mean com score,Mean geo score,Best accuracy,Accuracy,Classification_error,Precision,Recall/sensitivity,Specificity,F1 Score
+Beach leaf disease nematode,Litylenchus crenatae mccannii,85.69,22.729,80.39,57.8,75.64,21.54,0.875,0.95,0.05,0.9474,1,0.5,0.97
+Common Buckthorn,Rhamnus cathartica,81.5,29.645,86.73,41.4,78.56,31.47,0.85,0.7,0.3,0.7368,1,0.1667,0.85
+Garlic Mustard,Alliaria petiolata,88.91,34.7,80.93,24.55,67.96,39.89,0.9125,0.95,0.05,0.9444,1,0.6667,0.97
+Hemlock Woolly Adelgid,Adelges tsugae,82.85,23.347,82.03,60.57,74.73,21.26,0.85,0.85,0.15,0.8235,1,0.5,0.90
+Japanese Knotweed,Reynoutria japonica,76.73,30.67,79.96,19.35,71.47,31.94,0.9,0.85,0.15,0.9375,0.8824,0.6667,0.91
+Japanese Barberry,Berberis thunbergii,90.06,20.65,95.23,47.75,89.53,36.55,0.925,0.9,0.1,0.8947,1,0.3333,0.94
+Multiflora Rose,Rosa multiflora,74.05,32.285,73.45,30.78,67.902,41.31,0.9125,0.9,0.1,0.9444,0.9444,0.5,0.94
+Oriental Bittersweet,Celastrus orbiculatus,65.45,31.869,84.7,31.46,71.92,33.65,0.8625,0.9,0.1,0.9444,0.9444,0.5,0.94
+Purple Loosestrife,Lythrum salicaria,89.08,30.728,88.85,31.05,77.289,38.21,0.925,0.9,0.1,1,0.8889,1,0.94
+Spotted Lanternfly,Lycorma delicatula,92.79,18.76,96.38,51.51,92.78,72.02,0.9625,0.85,0.15,0.8947,0.9444,0,0.92
+Tree-of-heaven,Ailanthus altissima,87.09,34.965,79.86,24.38,65.439,32.68,0.9125,0.75,0.25,0.7333,0.9167,0.5,0.81
+All 11 species,All 11 species,77.62,29.786,84.64,38.73,75.75,36.5,0.8648,0.8682,0.1318,0.8883,0.9615,0.4211,0.92
